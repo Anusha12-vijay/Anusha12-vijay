@@ -8,8 +8,8 @@
 ---
 
 ### 🌱 About Me
-I’m a curious tech enthusiast who loves working at the intersection of **security, data, and cloud**.  
-I enjoy analyzing logs, spotting patterns, building dashboards, and turning raw data into meaningful insights — especially when it helps improve security and decision-making.
+I’m a curious techie who loves working at the intersection of **security, data, and cloud**.  
+I am a cybersecurity professional with experience in Microsoft security solutions, cloud security, and identity management. I enjoy identifying potential risks, solving security challenges, and finding effective ways to protect organizations and their sensitive information.
 
 ---
 
